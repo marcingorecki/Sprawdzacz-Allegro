@@ -1,0 +1,28 @@
+C:\Users\marcin\AppData\Local\Temporary Projects\Lista Przedmiotow\bin\Debug\Lista Przedmiotow.exe
+C:\Users\marcin\AppData\Local\Temporary Projects\Lista Przedmiotow\bin\Debug\Lista Przedmiotow.pdb
+C:\Users\marcin\AppData\Local\Temporary Projects\Lista Przedmiotow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\marcin\AppData\Local\Temporary Projects\Lista Przedmiotow\obj\x86\Debug\MainWindow.baml
+C:\Users\marcin\AppData\Local\Temporary Projects\Lista Przedmiotow\obj\x86\Debug\MainWindow.g.cs
+C:\Users\marcin\AppData\Local\Temporary Projects\Lista Przedmiotow\obj\x86\Debug\App.g.cs
+C:\Users\marcin\AppData\Local\Temporary Projects\Lista Przedmiotow\obj\x86\Debug\Lista Przedmiotow_MarkupCompile.cache
+C:\Users\marcin\AppData\Local\Temporary Projects\Lista Przedmiotow\obj\x86\Debug\Lista Przedmiotow.g.resources
+C:\Users\marcin\AppData\Local\Temporary Projects\Lista Przedmiotow\obj\x86\Debug\Lista_Przedmiotow.Properties.Resources.resources
+C:\Users\marcin\AppData\Local\Temporary Projects\Lista Przedmiotow\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\marcin\AppData\Local\Temporary Projects\Lista Przedmiotow\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\marcin\AppData\Local\Temporary Projects\Lista Przedmiotow\obj\x86\Debug\Lista Przedmiotow.exe
+C:\Users\marcin\AppData\Local\Temporary Projects\Lista Przedmiotow\obj\x86\Debug\Lista Przedmiotow.pdb
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\obj\x86\Debug\Lista Przedmiotow.exe
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\obj\x86\Debug\Lista Przedmiotow.pdb
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\bin\Debug\Lista Przedmiotow.exe
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\bin\Debug\Lista Przedmiotow.pdb
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\obj\x86\Debug\MainWindow.baml
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\obj\x86\Debug\MainWindow.g.cs
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\obj\x86\Debug\App.g.cs
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\obj\x86\Debug\Lista Przedmiotow_MarkupCompile.cache
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\obj\x86\Debug\Lista Przedmiotow.g.resources
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\obj\x86\Debug\Lista_Przedmiotow.Properties.Resources.resources
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\obj\x86\Debug\ConfigurationWindow.baml
+C:\Users\marcin\documents\visual studio 2010\Projects\Lista Przedmiotow\Lista Przedmiotow\obj\x86\Debug\ConfigurationWindow.g.cs

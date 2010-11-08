@@ -1,0 +1,16 @@
+﻿<Window x:Class="Lista_Przedmiotow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sprawdzacz aukcji" Height="436" Width="451"
+        Background="{StaticResource {x:Static SystemColors.ControlLightBrushKey}}" Icon="/Lista%20Przedmiotow;component/explorer-icon.png">
+    <Grid Width="429" >
+        <ListBox Height="250" HorizontalAlignment="Left" Margin="10,30,0,0" Name="missingItems" VerticalAlignment="Top" Width="200" />
+        <ListBox Height="250" HorizontalAlignment="Left" Margin="220,30,0,0" Name="duplicateItems" VerticalAlignment="Top" Width="200" />
+        <Label Content="Brakujące Aukcje" Height="28" HorizontalAlignment="Left" Margin="10,5,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Sprzedawane duplikaty" Height="28" HorizontalAlignment="Left" Margin="220,5,0,0" Name="label2" VerticalAlignment="Top" />
+        <ListBox Height="67" HorizontalAlignment="Left" Margin="12,318,0,0" Name="logBox" VerticalAlignment="Top" Width="408" />
+        <Button Height="23" HorizontalAlignment="Left" Margin="10,288,0,0" Name="pobierzDane" VerticalAlignment="Top" Width="200" Content="Pobierz i Licz" Click="pobierzDane_Click" />
+        <Button Content="Konfiguracja" Height="23" HorizontalAlignment="Left" Margin="220,288,0,0" Name="konfiguracjaButton" VerticalAlignment="Top" Width="93" Click="konfiguracjaButton_Click" />
+        <Button Content="Zamknij" Height="23" HorizontalAlignment="Left" Margin="319,288,0,0" Name="ZamknijButton" VerticalAlignment="Top" Width="98" Click="ZamknijButton_Click" />
+    </Grid>
+</Window>
