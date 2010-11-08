@@ -1,0 +1,7 @@
+Sprawdzacz allegro is a tool developed to help maintain full and disting list of auctions on allegro.pl auction site.
+
+The tool
+- is written using Microsoft Visual C# 2010 Express Edition
+- connects to allegro.pl using webservice (SOAP, using WSDL provided)
+- stores configuration in windows registry
+- has been written to serve one seller, so don't expect too much!
